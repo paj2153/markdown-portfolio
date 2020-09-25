@@ -1,3 +1,3 @@
 *Working out
-  Running
-  lifting weights
+*  Running
+* lifting weights
